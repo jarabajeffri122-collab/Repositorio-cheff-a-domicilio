@@ -1,0 +1,8 @@
+{
+  "name": "Aromas & Especias Gourmet 150g",
+  "description": "Boutique y sistema de gestión integral de especias gourmet en presentación exclusiva de 150 gramos. Catálogo, pedidos, CRM de roles y analítica comercial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
